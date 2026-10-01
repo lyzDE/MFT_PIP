@@ -18,3 +18,4 @@ On PIE dataset
 ```bash
 python train_test.py -c config_files_pie/nonvisual/NonVisualModel.yaml
 ```
+The repository is currently being updated. The latest version of the code will be made available soon.
